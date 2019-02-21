@@ -15,8 +15,8 @@ function ver_imagen(){
         else{
             imagen[i].style.display = "inline-block";
         }
-        setTimeout("ver_imagen()", 2000);
     }
+    setTimeout("ver_imagen()", 2000);
 }
 
 ver_imagen();
