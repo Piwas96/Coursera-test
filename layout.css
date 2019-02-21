@@ -1,0 +1,8 @@
+.center{
+    text-align: center
+}
+.img_responsive{
+    width: 50%;
+    height: auto;
+    display: none;
+}
