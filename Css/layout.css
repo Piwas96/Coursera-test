@@ -1,8 +1,12 @@
-.center{
+.gallery, .nav_bar, h1, table{
+    align-items: center;
     text-align: center;
 }
-.gallery{
-    text-align: center;
+h1{
+    font-family: 'Kavivanar', cursive;
+}
+#divCenter{
+    margin: 0px auto;
 }
 .gallery img{
     width: 200px;
@@ -16,6 +20,7 @@
     transform: scale(1.1);
 }
 body{
+    font-family: 'Cutive Mono', monospace;
     background-color: #f9e4ec;
     color: #000000;
 }
